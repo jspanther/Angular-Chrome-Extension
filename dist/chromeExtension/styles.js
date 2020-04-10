@@ -555,7 +555,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/nishigaba/nishu/myGit/chromeExtension/src/styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! /Users/nishigaba/nishu/myGit/chromeExtensionBackgroud/src/styles.css */"./src/styles.css");
 
 
 /***/ })
