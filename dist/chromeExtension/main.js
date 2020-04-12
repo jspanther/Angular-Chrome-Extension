@@ -30,7 +30,7 @@ webpackEmptyAsyncContext.id = "./src/$$_lazy_route_resource lazy recursive";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/*  Awesome Styling Stuff Goes Here */\n\nbody {\n  margin: 0 !important;\n  padding: 0 !important;\n}\n\n#bgContainer {\n\theight: 100%;\n    width: 100%;\n    position: absolute;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvYXBwLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsc0NBQXNDOztBQUV0QztFQUNFLHFCQUFxQjtFQUNyQixzQkFBc0I7Q0FDdkI7O0FBRUQ7Q0FDQyxhQUFhO0lBQ1YsWUFBWTtJQUNaLG1CQUFtQjtDQUN0QiIsImZpbGUiOiJzcmMvYXBwL2FwcC5jb21wb25lbnQuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLyogIEF3ZXNvbWUgU3R5bGluZyBTdHVmZiBHb2VzIEhlcmUgKi9cblxuYm9keSB7XG4gIG1hcmdpbjogMCAhaW1wb3J0YW50O1xuICBwYWRkaW5nOiAwICFpbXBvcnRhbnQ7XG59XG5cbiNiZ0NvbnRhaW5lciB7XG5cdGhlaWdodDogMTAwJTtcbiAgICB3aWR0aDogMTAwJTtcbiAgICBwb3NpdGlvbjogYWJzb2x1dGU7XG59Il19 */"
+module.exports = "/*  Awesome Styling Stuff Goes Here */\n\n/*body {\n  margin: 0 !important;\n  padding: 0 !important;\n}\n\n#bgContainer {\n\theight: 100%;\n    width: 100%;\n    position: absolute;\n}*/\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvYXBwLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsc0NBQXNDOztBQUV0Qzs7Ozs7Ozs7O0dBU0ciLCJmaWxlIjoic3JjL2FwcC9hcHAuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi8qICBBd2Vzb21lIFN0eWxpbmcgU3R1ZmYgR29lcyBIZXJlICovXG5cbi8qYm9keSB7XG4gIG1hcmdpbjogMCAhaW1wb3J0YW50O1xuICBwYWRkaW5nOiAwICFpbXBvcnRhbnQ7XG59XG5cbiNiZ0NvbnRhaW5lciB7XG5cdGhlaWdodDogMTAwJTtcbiAgICB3aWR0aDogMTAwJTtcbiAgICBwb3NpdGlvbjogYWJzb2x1dGU7XG59Ki8iXX0= */"
 
 /***/ }),
 
@@ -41,7 +41,7 @@ module.exports = "/*  Awesome Styling Stuff Goes Here */\n\nbody {\n  margin: 0 
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<!--The content below is only a placeholder and can be replaced.-->\n<div id=\"bgContainer\" style=\"text-align:center\" [style.background-image]=\"'url(../assets/img/'+bgImageVal+')'\">\n</div>\n"
+module.exports = "<!--The content below is only a placeholder and can be replaced.-->\n<div id=\"bgContainer\" style=\"text-align:center\" [style.background-image]=\"'url('+bgImageVal+')'\">\n</div>\n"
 
 /***/ }),
 
@@ -66,7 +66,7 @@ var __decorate = (undefined && undefined.__decorate) || function (decorators, ta
 var AppComponent = /** @class */ (function () {
     function AppComponent() {
         this.title = 'Test Chrome Extension';
-        this.bgImageVal = 'wallpaper.png';
+        this.bgImageVal = 'https://source.unsplash.com/1600x900/?nature,water';
     }
     AppComponent = __decorate([
         Object(_angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"])({

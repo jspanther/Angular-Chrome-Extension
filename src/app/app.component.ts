@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Test Chrome Extension';
-  bgImageVal = 'wallpaper.png';
+  bgImageVal = 'https://source.unsplash.com/1600x900/?nature,water';
 }
