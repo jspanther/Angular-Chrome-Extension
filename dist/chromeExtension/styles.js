@@ -555,7 +555,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/nishigaba/nishu/myGit/chromeExtensionBackgroud/src/styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! /home1/lamppp/htdocs/myWork/js_panther_chrome_extension/Random-Chrome-Extension/src/styles.css */"./src/styles.css");
 
 
 /***/ })
