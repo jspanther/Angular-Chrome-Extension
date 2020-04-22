@@ -8,7 +8,11 @@ In this lockdown period, JsPanther decided to launch a simple and fun way to cre
 ## What you are going to achieve ?
 After completing all the steps mentioned here, you all are going to be proficient in creating the Chrome Extensions with Angular such as it is going to be a game of minutes for you :hourglass_flowing_sand:	
 
-## What you need ?
+## Pre-requisites ?
+* ### Angular CLI 
+> It's a command line interface for Angular. You can install it by following the instructions from [here](https://cli.angular.io/)
+* ### Chrome Web Browser
+> A more simple, secure, and faster web browser than ever, with Google's smarts built-in. You will going to need it to test the extension locally before launching it to the Chrome Extension Web Store. You can install it from [here](https://www.google.com/chrome/)
 
 ## Let's begin the process
 
