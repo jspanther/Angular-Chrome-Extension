@@ -5,20 +5,20 @@ Hey Folks :wave:
 Hope you all are doing great in your development journeys. 
 In this lockdown period, JsPanther decided to launch a simple and fun way to create something new that will gonna add something new in your skill set. And you know what, you don't have to sit for hours in front of the screen for this, you just need few minutes to launch your whole new Chrome Extension with the help of JsPanther :slightly_smiling_face:
 
-# What you are going to achieve ?
+## What you are going to achieve ?
 
-# What you need ?
+## What you need ?
 
-# Let's begin the process
+## Let's begin the process
 
 So, lets buckle up to start the small but adventurous journey of making an <strong>Chrome Extension with Angular</strong>
 
 
-## steps
+### steps
 
-## extension link
+### extension link
 
-## blog link
+### blog link
 
 ## Refrences
 
@@ -29,4 +29,4 @@ So, lets buckle up to start the small but adventurous journey of making an <stro
 
 By the way... thank you! And if you'd like to [say thanks](https://saythanks.io/to/jspantherbd%40gmail.com)... :) 
 
-Happy Coding ✨🍰✨
+#### Happy Coding ✨🍰✨
