@@ -10,9 +10,9 @@ After completing all the steps mentioned here, you all are going to be proficien
 
 ## Pre-requisites ?
 * ### Angular CLI 
- It's a command line interface for Angular. You can install it by following the instructions from [here](https://cli.angular.io/)
+    It's a command line interface for Angular. You can install it by following the instructions from [here](https://cli.angular.io/)
 * ### Chrome Web Browser
- A more simple, secure, and faster web browser than ever, with Google's smarts built-in. You will going to need it to test the extension locally before launching it to the Chrome Extension Web Store. You can install it from [here](https://www.google.com/chrome/)
+    A more simple, secure, and faster web browser than ever, with Google's smarts built-in. You will going to need it to test the extension locally before launching it to the Chrome Extension Web Store. You can install it from [here](https://www.google.com/chrome/)
 
 ## Let's begin the process
 
