@@ -12,13 +12,13 @@ After completing all the steps mentioned here, you all are going to be proficien
 * ### Angular CLI 
     It's a command line interface for Angular. You can install it by following the instructions from [here](https://cli.angular.io/)
     #### Why Angular CLI needed :
-    Technically, you’re not required to use Angular CLI to develop an Angular application, but its many features can highly       improve the quality of your code and save you a lot of time along the way and automate your development workflow.
+    Technically, you’re not required to use Angular CLI to develop an Angular application, but its many features can highly       improve the quality of your code and automate your development workflow eventually save you a lot of time along the way .
 * ### Chrome Web Browser
     A more simple, secure, and faster web browser than ever, with Google's smarts built-in. You will going to need it to test the extension locally before launching it to the Chrome Extension Web Store. You can install it from [here](https://www.google.com/chrome/)
 
 ## Let's begin the process
 
-So, lets buckle up to start the small but adventurous journey of making a <strong>Chrome Extension with Angular</strong>
+So, lets buckle up to start the small but adventurous journey of making a <strong>Chrome Extension with Angular</strong>:checkered_flag:	
 
 ### Step 1
 
