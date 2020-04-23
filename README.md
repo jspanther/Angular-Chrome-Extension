@@ -22,7 +22,7 @@ So, lets buckle up to start the small but adventurous journey of making a <stron
 
 ### Step 1
 
-### JsPanther's Chrome Extension on Google WEB Store
+## JsPanther's Chrome Extension on Google WEB Store
 You can check out JsPanther's Chrome Extension on [Chrome Web Store](https://chrome.google.com/webstore/category/extensions?hl=en) by searching "jspanther". If you like it then please <strong>[Add To Chrome](https://chrome.google.com/webstore/detail/jspanther/ndcjllhdgddojandognggpbnfdjiomfn?hl=en) and it will give you an awesome nature wallpaper on every new tab on Chrome. Enjoy the Nature:shamrock:
 
 ## Refrences
@@ -31,7 +31,6 @@ You can check out JsPanther's Chrome Extension on [Chrome Web Store](https://chr
 * [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en)
 
 ## Oh, Thanks!
-
 By the way... thank you! And if you'd like to [say thanks](https://saythanks.io/to/jspantherbd%40gmail.com)... :) 
 
 #### Happy Coding ✨🍰✨
