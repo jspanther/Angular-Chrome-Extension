@@ -11,24 +11,24 @@ After completing all the steps mentioned here, you all are going to be proficien
 ## Pre-requisites ?
 * ### Angular CLI 
     It's a command line interface for Angular. You can install it by following the instructions from [here](https://cli.angular.io/)
+    #### Why Angular CLI needed :
+    Technically, you’re not required to use Angular CLI to develop an Angular application, but its many features can highly       improve the quality of your code and save you a lot of time along the way and automate your development workflow.
 * ### Chrome Web Browser
     A more simple, secure, and faster web browser than ever, with Google's smarts built-in. You will going to need it to test the extension locally before launching it to the Chrome Extension Web Store. You can install it from [here](https://www.google.com/chrome/)
 
 ## Let's begin the process
 
-So, lets buckle up to start the small but adventurous journey of making an <strong>Chrome Extension with Angular</strong>
+So, lets buckle up to start the small but adventurous journey of making a <strong>Chrome Extension with Angular</strong>
 
+### Step 1
 
-### steps
-
-### extension link
-
-### blog link
+### JsPanther's Chrome Extension on Google WEB Store
+You can check out JsPanther's Chrome Extension on [Chrome Web Store](https://chrome.google.com/webstore/category/extensions?hl=en) by searching "jspanther". If you like it then please <strong>[Add To Chrome](https://chrome.google.com/webstore/detail/jspanther/ndcjllhdgddojandognggpbnfdjiomfn?hl=en) and it will give you an awesome nature wallpaper on every new tab on Chrome. Enjoy the Nature:shamrock:
 
 ## Refrences
 
-* unsplash
-* momentum
+* [Unsplash](https://unsplash.com/)
+* [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en)
 
 ## Oh, Thanks!
 
