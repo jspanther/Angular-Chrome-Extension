@@ -22,6 +22,8 @@ So, lets buckle up to start the small but adventurous journey of making a <stron
 ### Step 1
 
 ## JSPanther's Chrome Extension on Google WEB Store
+
+![JSPanther_Chrome_Extesnion](https://github.com/jspanther/Angular-Chrome-Extension/blob/master/src/assets/img/JSPanther_screen.png)
 You can check out JSPanther's Chrome Extension on [Chrome Web Store](https://chrome.google.com/webstore/category/extensions?hl=en) by searching "JSPanther". If you like it then please <strong>[Add To Chrome](https://chrome.google.com/webstore/detail/jspanther/ndcjllhdgddojandognggpbnfdjiomfn?hl=en)</strong> and it will give you an awesome nature wallpaper on every new tab on Chrome.<strong>Enjoy the Nature</strong>:shamrock:
 
 ## Refrences
