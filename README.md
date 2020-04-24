@@ -19,7 +19,45 @@ After completing all the steps mentioned here, you all are going to be proficien
 ## Let's begin the process
 
 So, lets buckle up to start the small but adventurous journey of making a <strong>Chrome Extension with Angular</strong>:rocket:
+
 ### Step 1
+ng new <app-name>
+  
+### Step 2
+cd /project-directory
+ng serve // it will show the default home   //show image
+
+### Step 3
+add the updated app.component.ts,app.component.html, style.css
+//add unsplash api as well
+ng serve
+// show image
+
+### Step 4
+make build -> dist
+
+### Step 5
+create manifest inside dist, manifest file link,, version 2, use of manifest.json
+
+### Step 6
+add icons, logos, images
+
+### Step 7
+check locally, unpacked chrome extension // developer tools
+
+### Step 8
+zip package
+
+### Step 9
+Google web store payment and form submission
+
+### Step 10
+package upload with updated versions and images
+
+### Step 11
+save draft and publish
+
+Voila, All done :D
 
 ## JSPanther's Chrome Extension on Google WEB Store
 
