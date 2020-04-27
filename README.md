@@ -32,6 +32,13 @@ After this, you can check the URL "localhost:4200" in your browser and home page
 ![JSPanther_Angular_App](https://github.com/jspanther/Angular-Chrome-Extension/blob/master/src/assets/img/third.png)
 
 ### Step 3
+Now, you can update your content of src/app files such as:
+* <strong>"src/app/app.component.html"</strong>
+
+```<div id="bgContainer" style="text-align:center" [style.background-image]="'url('+bgImageVal+')'">
+```</div>
+
+
 add the updated app.component.ts,app.component.html, style.css
 //add unsplash api as well
 ng serve
