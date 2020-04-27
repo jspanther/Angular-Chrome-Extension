@@ -20,18 +20,18 @@ After completing all the steps mentioned here, you all are going to be proficien
 
 So, lets buckle up to start the small but adventurous journey of making a <strong>Chrome Extension with Angular</strong>:rocket:
 
-### Step 1
+### Step 1 (Create Angular App)
 Create a new App with Angular CLI using ["ng new <app-name>"](https://angular.io/cli/new) command such as:
 ![JSPanther_Angular_App](https://github.com/jspanther/Angular-Chrome-Extension/blob/master/src/assets/img/first.png)
   
-### Step 2
+### Step 2 (Run Angular App)
 Now, we need to switch to the project directory using command "cd /project-directory". We can check the directory content by running "ls" command and now we can run our Angular application by running ["ng serve"](https://angular.io/cli/serve) such as:
 ![JSPanther_Angular_App](https://github.com/jspanther/Angular-Chrome-Extension/blob/master/src/assets/img/second.png)
 
 After this, you can check the URL "localhost:4200" in your browser and home page looks like this:
 ![JSPanther_Angular_App](https://github.com/jspanther/Angular-Chrome-Extension/blob/master/src/assets/img/third.png)
 
-### Step 3
+### Step 3 (Update Content)
 Now, you can update your content of src/app files such as:
 * <strong>"src/app/app.component.html"</strong>
 ```ts
@@ -71,14 +71,40 @@ Now, you can update your content of src/app files such as:
 After updating all the above pages, let Angular CLI run it's magic and let the App get refreshed automatically. Now, your Angular App Home page will look like this:
 ![JSPanther_Angular_App](https://github.com/jspanther/Angular-Chrome-Extension/blob/master/src/assets/img/fourth.png)
 
-### Step 4
-make build -> dist
+### Step 4 (Make Build)
+Now, we need to make a build of our Angular Application by running the command ["ng build"](https://angular.io/cli/build)
+![JSPanther_Angular_App](https://github.com/jspanther/Angular-Chrome-Extension/blob/master/src/assets/img/fifth.png)
 
-### Step 5
-create manifest inside dist, manifest file link,, version 2, use of manifest.json
+### Step 5 (Create Manifest.json)
+After successfully creating the build of the project, we need to create the manifest.json inside our /dist folder. Manifest file should be in the same folder as the "index.html" inside /dist. <strong>Manifest.json</strong> file tells Chrome important information about your extension, like its name and which permissions it needs.
+<strong>"dist/JSPantherExtension"</strong>
+```ts
+  {
 
-### Step 6
-add icons, logos, images
+    "manifest_version": 2,
+    "name": "JsPanther",
+    "description": "Hi, I am a JsPanther Chrome extension build with Angular serving awesome nature wallpapers on New Tab :)",
+    "version": "0.0.1",
+    "browser_action": {
+    "default_icon": "favicon.png"
+    },
+    "icons": { "16": "./icons/icon16.png",
+               "48": "./icons/icon48.png",
+               "72": "./icons/icon72.png",
+               "120": "./icons/icon120.png",
+               "144": "./icons/icon144.png" 
+    },
+    "chrome_url_overrides" : {
+	    "newtab" : "./index.html"
+	 },
+    "permissions": [],
+    "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"
+   
+}
+```
+
+### Step 6 (Add Icon and Logo)
+Now, you can add icons and logo and favicon.ico to your dist folder as shown here : [JSPanther_Chrome_Extension_dist](https://github.com/jspanther/Angular-Chrome-Extension/tree/master/dist/chromeExtension)
 
 ### Step 7
 check locally, unpacked chrome extension // developer tools
