@@ -21,11 +21,15 @@ After completing all the steps mentioned here, you all are going to be proficien
 So, lets buckle up to start the small but adventurous journey of making a <strong>Chrome Extension with Angular</strong>:rocket:
 
 ### Step 1
-ng new <app-name>
+Create a new App with Angular CLI using "ng new <app-name>" command such as:
+![JSPanther_Angular_App](https://github.com/jspanther/Angular-Chrome-Extension/blob/master/src/assets/img/first.png)
   
 ### Step 2
-cd /project-directory
-ng serve // it will show the default home   //show image
+Now, we need to switch to the project directory using command "cd /project-directory". We can check the directory content byt running "ls" command and now we can run our Angular application by running ["ng serve"](https://angular.io/cli/serve) such as:
+![JSPanther_Angular_App](https://github.com/jspanther/Angular-Chrome-Extension/blob/master/src/assets/img/second.png)
+
+After this, you can check the URL "localhost:4200" in your browser and home page looks like this:
+![JSPanther_Angular_App](https://github.com/jspanther/Angular-Chrome-Extension/blob/master/src/assets/img/third.png)
 
 ### Step 3
 add the updated app.component.ts,app.component.html, style.css
