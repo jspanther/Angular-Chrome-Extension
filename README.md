@@ -32,10 +32,44 @@ After this, you can check the URL "localhost:4200" in your browser and home page
 ![JSPanther_Angular_App](https://github.com/jspanther/Angular-Chrome-Extension/blob/master/src/assets/img/third.png)
 
 ### Step 3
-add the updated app.component.ts,app.component.html, style.css
-//add unsplash api as well
-ng serve
-// show image
+Now, you can update your content of src/app files such as:
+* <strong>"src/app/app.component.html"</strong>
+```ts
+  <div id="bgContainer" style="text-align:center" [style.background-image]="'url('+bgImageVal+')'"></div>
+```
+* <strong>"src/app/app.component.ts"</strong>
+```ts
+  import { Component } from '@angular/core';
+  import { Http } from '@angular/http';
+
+  @Component({
+    selector: 'app-root',
+    templateUrl: './app.component.html',
+    styleUrls: ['./app.component.css']
+  })
+  export class AppComponent {
+    // call to Unsplash API to get Awesome Nature Pictures
+    bgImageVal = 'https://source.unsplash.com/1600x900/?nature,water';
+  }
+```
+* Add this little piece of CSS in your <strong>"src/index.html"</strong>
+```ts
+   <style type="text/css">
+   /*  Awesome Styling Stuff Goes Here */
+   body {
+     margin: 0 !important;
+     padding: 0 !important;
+   }
+   
+   #bgContainer {
+     height: 100%;
+     width: 100%;
+     position: absolute;
+   }
+  </style>
+```
+After updating all the above pages, let Angular CLI run it's magic and let the App get refreshed automatically. Now, your Angular App Home page will look like this:
+![JSPanther_Angular_App](https://github.com/jspanther/Angular-Chrome-Extension/blob/master/src/assets/img/fourth.png)
 
 ### Step 4
 make build -> dist
