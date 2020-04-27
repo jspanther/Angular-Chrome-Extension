@@ -119,12 +119,12 @@ Let's regsiter as a [Chrome Web Store Developer](https://chrome.google.com/webst
 
 ### Step 10 (Package Upload)
 Woahh! You are all set to upload your zipped extension Package to Chrome Web Store. You can also add "Pricing and Distribution" and Privacy Policies with your extension package in this section. After completing all the steps:
-* <strong>Package</strong>          // You can update versions of your extension package here.
-* <strong>Store Listing</strong>    // You can update descripton and images of your extension package here.
-* <strong>Privacy</strong>          // You need to declare here if you are using any Remote API's.
-* <strong>Pricing and Distribution</strong>   // You can manage the visibility and distribution of your extension here.
-* <strong>Stats</strong>            // You can check the daily statistics graph of your extension with some cool filters.
-* <strong>Ratings</strong>          // You can check Ratings over time of your extension in this section.
+* <strong>Package</strong>          - You can update versions of your extension package here.
+* <strong>Store Listing</strong>    - You can update descripton and images of your extension package here.
+* <strong>Privacy</strong>          - You need to declare here if you are using any Remote API's.
+* <strong>Pricing and Distribution</strong>   - You can manage the visibility and distribution of your extension here.
+* <strong>Stats</strong>            - You can check the daily statistics graph of your extension with some cool filters.
+* <strong>Ratings</strong>          - You can check Ratings over time of your extension in this section.
 
 After, completing all of the above mentioned steps, save all the steps in <strong>Draft</strong> and lets jump to the next step.
 
