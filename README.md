@@ -130,7 +130,9 @@ After, completing all of the above mentioned steps, save all the steps in <stron
 
 ### Step 11 (Publish Extension)
 Final Step: Click on <strong>Publish</strong>
-<strong>Voila!!! Your Chrome Extension Published Successfully<strong> :tada:
+
+<strong>Voila!!! Your Chrome Extension Published Successfully</strong> :tada:
+
 Now, Chrome Web store will review your package once and after a couple of minutes, you will be able to check your extension on "Chrome Extension Web Store" and anybody from Worldwide can add your Chrome Extension from here.
 
 ## JSPanther's Chrome Extension on Google WEB Store
