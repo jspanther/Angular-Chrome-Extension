@@ -126,11 +126,12 @@ Woahh! You are all set to upload your zipped extension Package to Chrome Web Sto
 * <strong>Stats</strong>            // You can check the daily statistics graph of your extension with some cool filters.
 * <strong>Ratings</strong>          // You can check Ratings over time of your extension in this section.
 
-### Step 11 (Publish Extension)
-After, completing all of the above mentioned steps, save all the steps in Draft and click on <strong>Publish</strong>.
-Now, Chrome Web store will review your package once and after a couple of minutes, you will be able to check your extension on "Chrome Extension Web Store".
+After, completing all of the above mentioned steps, save all the steps in <strong>Draft</strong> and lets jump to the next step.
 
-<strong>Voila, All done :D</strong>
+### Step 11 (Publish Extension)
+Final Step: Click on <strong>Publish</strong>
+<strong>Voila!!! Your Chrome Extension Published Successfully<strong> :tada:
+Now, Chrome Web store will review your package once and after a couple of minutes, you will be able to check your extension on "Chrome Extension Web Store" and anybody from Worldwide can add your Chrome Extension from here.
 
 ## JSPanther's Chrome Extension on Google WEB Store
 
