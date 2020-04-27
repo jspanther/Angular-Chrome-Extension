@@ -113,8 +113,9 @@ Go to <strong>"More tools"</strong> in Google Develope Tools and then click on <
 ### Step 8 (Zip Extension Package)
 After successfully testing the Chrome Extension locally, we will going to make the ZIP of the entire dist folder as we need to upload that ZIP extension package to [Google Chrome Web Store](https://chrome.google.com/webstore/category/ext/11-web-development) to launch our extension.
 
-### Step 9
-Google web store payment and form submission
+### Step 9 [Registration as Chrome Web Store Developer]
+Let's regsiter as a [Chrome Web Store Developer](https://chrome.google.com/webstore/devconsole/register?hl=en-GB) as need that authrity to launch our Extension on Chrome Web Store. We need to agree on the terms and policies for that and have to pay a registration fee of $5 to Google Chrome.
+![JSPanther_Chrome_Extesnion](https://github.com/jspanther/Angular-Chrome-Extension/blob/master/src/assets/img/sixth.png)
 
 ### Step 10
 package upload with updated versions and images
