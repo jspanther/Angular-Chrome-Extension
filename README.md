@@ -84,7 +84,7 @@ After successfully creating the build of the project, we need to create the mani
     "manifest_version": 2,
     "name": "JsPanther",
     "description": "Hi, I am a JsPanther Chrome extension build with Angular serving awesome nature wallpapers on New Tab :)",
-    "version": "0.0.5",
+    "version": "0.0.1",
     "browser_action": {
     "default_icon": "favicon.png"
     },
@@ -103,8 +103,8 @@ After successfully creating the build of the project, we need to create the mani
 }
 ```
 
-### Step 6
-add icons, logos, images
+### Step 6 (Add Icon and Logo)
+Now, you can add icons and logo and favicon.ico to your dist folder as shown here : [JSPanther_Chrome_Extension_dist](https://github.com/jspanther/Angular-Chrome-Extension/tree/master/dist/chromeExtension)
 
 ### Step 7
 check locally, unpacked chrome extension // developer tools
