@@ -77,6 +77,7 @@ Now, we need to make a build of our Angular Application by running the command [
 
 ### Step 5 (Create Manifest.json)
 After successfully creating the build of the project, we need to create the manifest.json inside our /dist folder. Manifest file should be in the same folder as the "index.html" inside /dist. <strong>Manifest.json</strong> file tells Chrome important information about your extension, like its name and which permissions it needs.
+
 <strong>"dist/JSPantherExtension"</strong>
 ```ts
   {
@@ -103,14 +104,14 @@ After successfully creating the build of the project, we need to create the mani
 }
 ```
 
-### Step 6 (Add Icon and Logo)
+### Step 6 (Add Favicon.ico ,Icons and Logo)
 Now, you can add icons and logo and favicon.ico to your dist folder as shown here : [JSPanther_Chrome_Extension_dist](https://github.com/jspanther/Angular-Chrome-Extension/tree/master/dist/chromeExtension)
 
-### Step 7
-check locally, unpacked chrome extension // developer tools
+### Step 7 (Locally Unpack Chrome Extension)
+Go to <strong>"More tools"</strong> in Google Develope Tools and then click on <strong>Extensions</strong>. After that, enable the "Developer Mode" on Extensions Page. Now, click on <strong>"Load Unpacked"</strong> and now browse to your manifest.json path and Google will install your unpacked extension to your Chrome browser and you can test that locally :nerd_face: 
 
-### Step 8
-zip package
+### Step 8 (Zip Extension Package)
+After successfully testing the Chrome Extension locally, we will going to make the ZIP of the entire dist folder as we need to upload that ZIP extension package to [Google Chrome Web Store](https://chrome.google.com/webstore/category/ext/11-web-development) to launch our extension.
 
 ### Step 9
 Google web store payment and form submission
