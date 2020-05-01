@@ -117,13 +117,23 @@ After successfully testing the Chrome Extension locally, we will going to make t
 Let's regsiter as a [Chrome Web Store Developer](https://chrome.google.com/webstore/devconsole/register?hl=en-GB) as need that authrity to launch our Extension on Chrome Web Store. We need to agree on the terms and policies for that and have to pay a registration fee of $5 to Google Chrome.
 ![JSPanther_Chrome_Extesnion](https://github.com/jspanther/Angular-Chrome-Extension/blob/master/src/assets/img/sixth.png)
 
-### Step 10
-package upload with updated versions and images
+### Step 10 (Package Upload)
+Woahh! You are all set to upload your zipped extension Package to Chrome Web Store. You can also add "Pricing and Distribution" and Privacy Policies with your extension package in this section. After completing all the steps:
+* <strong>Package</strong>          - You can update versions of your extension package here.
+* <strong>Store Listing</strong>    - You can update descripton and images of your extension package here.
+* <strong>Privacy</strong>          - You need to declare here if you are using any Remote API's.
+* <strong>Pricing and Distribution</strong>   - You can manage the visibility and distribution of your extension here.
+* <strong>Stats</strong>            - You can check the daily statistics graph of your extension with some cool filters.
+* <strong>Ratings</strong>          - You can check Ratings over time of your extension in this section.
 
-### Step 11
-save draft and publish
+After, completing all of the above mentioned steps, save all the steps in <strong>Draft</strong> and lets jump to the next step.
 
-Voila, All done :D
+### Step 11 (Publish Extension)
+Final Step: Click on <strong>Publish</strong>
+
+<strong>Voila!!! Your Chrome Extension Published Successfully</strong> :tada:
+
+Now, Chrome Web store will review your package once and after a couple of minutes, you will be able to check your extension on "Chrome Extension Web Store" and anybody from Worldwide can add your Chrome Extension from here.
 
 ## JSPanther's Chrome Extension on Google WEB Store
 
